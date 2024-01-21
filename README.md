@@ -1,9 +1,5 @@
 <h3 align="center">Frontend Dasturchi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zetbloger&label=Profile%20views&color=0e75b6&style=flat" alt="zetbloger" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zetbloger" alt="zetbloger" /></a> </p>
-
 - 📫 How to reach me **+998886316262**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,4 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zetbloger&show_icons=true&locale=en" alt="zetbloger" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zetbloger&" alt="zetbloger" /></p>
-
