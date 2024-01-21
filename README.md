@@ -1,1 +1,1 @@
-# Azizbek_Omonov1
+# Azizbek_Omonov
